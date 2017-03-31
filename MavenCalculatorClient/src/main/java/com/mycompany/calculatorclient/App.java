@@ -62,4 +62,8 @@ public class App
         CalculatorService_Service service = new CalculatorService_Service();
         return service.getCalculatorServicePort();
     }
+     CalculatorService getCalculatorPort2() {
+        CalculatorService_Service service = new CalculatorService_Service();
+        return service.getCalculatorServicePort();
+    }
 }

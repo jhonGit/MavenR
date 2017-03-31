@@ -35,7 +35,7 @@ import calc.CalculatorService_Service;
 import calc.NegativeNumberException_Exception;
 
 /** Client for Calculator web service.
- *
+ *new
  * @author mkuchtiak
  */
 public class App 

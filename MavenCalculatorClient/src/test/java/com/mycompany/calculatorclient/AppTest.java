@@ -86,5 +86,7 @@ public class AppTest
     public void myOwnMetod2(){
     
         System.out.println("Helo");
+        System.out.println("Helo");
+        System.out.println("Helo");
     }
 }
